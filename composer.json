@@ -1,0 +1,19 @@
+{
+    "name": "renan-sma/sprouty-project",
+    "description": "Projeto Integrador da aula de Programação para Internet do curso de GTI da Fatec Jahu.",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Renan S. M. Amaral",
+            "email": "renan.amaral01@fatec.sp.gov.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
